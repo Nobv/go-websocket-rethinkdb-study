@@ -1,1 +1,1 @@
-# websocket-study
+# go-websocket-rethinkdb-study
