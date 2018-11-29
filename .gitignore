@@ -12,3 +12,4 @@
 *.out
 
 go-websocket-rethinkdb-study
+rethinkdb_data

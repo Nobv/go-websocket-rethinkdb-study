@@ -21,7 +21,7 @@ func StartServer(server *http.Server) {
 	log.Println("stating server....")
 	err := server.ListenAndServe()
 	if err != nil {
-		log.Fatalln("Error: %v", err)
+		log.Fatalln(err)
 	}
 }
 
